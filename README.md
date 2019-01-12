@@ -11,11 +11,11 @@ Some userful Alfred workflows | 一些有用的Alfred workflow
   2. assign a task to a project
   3. list all tasks with full information and quickly finish selected task
 
-  [More Info](../go-todo/README.md)
+  [More Info](https://github.com/Ontides/alfred-workflows/tree/master/go-todo/README.md)
 
 * Desktop Swicher
 
   Desktop Swicher offers a way to swich desktops.You can set an alias to a desktop, and swich to the desktop using it.  
 
-  [More Info](../desktop-swicher/README.md)
+  [More Info](https://github.com/Ontides/alfred-workflows/blob/master/desktop-swicher/README.md)
 
