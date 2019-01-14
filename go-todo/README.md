@@ -16,6 +16,10 @@ If you don't set a project like the above example, this task will be assgined to
 
 ![image-20190112145736994](https://ws1.sinaimg.cn/large/006tNc79gy1fz3thtcjscj30v00gkmyu.jpg)
 
+* Use `#projectName` to filter the task list
+
+![image-20190114200422152](https://ws3.sinaimg.cn/large/006tNc79gy1fz6d9vdivwj30fi04g3yr.jpg)
+
 ---
 
 **Go-ToDo require a node.js environment.([click to get node.js](https://nodejs.org/))**
