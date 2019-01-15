@@ -18,11 +18,11 @@ If you don't set a project like the above example, this task will be assgined to
 
 * Use `#projectName` to filter the task list
 
-![image-20190115140444029](/var/folders/3s/4y61wdwx5r1g64zmbr5lb9380000gn/T/abnerworks.Typora/image-20190115140444029.png)
+![image-20190115140444029](https://ws2.sinaimg.cn/large/006tNc79ly1fz7jywymhbj30uy08wjsc.jpg)
 
 * Use `tdproject` to list all project names and press enter to see the corresponding tasks
 
-![getprojects](/Users/ontidz/Desktop/getprojects.gif)
+![getprojects](https://ws2.sinaimg.cn/large/006tNc79ly1fz7jywdkgtj30g405mweo.jpg)
 
 ---
 
