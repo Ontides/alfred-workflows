@@ -28,7 +28,7 @@ If you don't set a project like the above example, this task will be assigned to
 
 ![getprojects](https://i.loli.net/2019/01/16/5c3ea1e6aa508.gif)
 
-![taglist.gif](http://www.tzr.me/images/2019/01/17/taglist.gif)
+![taglist](https://ws2.sinaimg.cn/large/006tNc79gy1fz9o34w4m1g30g4061qv5.gif)
 
 * Use `tdclear` to clear all data.
 
