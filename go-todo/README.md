@@ -24,9 +24,11 @@ If you don't set a project like the above example, this task will be assigned to
 
 ![image-20190116112745881](https://ws2.sinaimg.cn/large/006tNc79gy1fz89kfg1t7j30uw08saby.jpg)
 
-* Use `tdproject` to list all project names and press enter to see the corresponding tasks
+* Use `tdproject`/`tdtag` to list all project/tag names and press enter to see the corresponding tasks
 
 ![getprojects](https://i.loli.net/2019/01/16/5c3ea1e6aa508.gif)
+
+![tag-list](https://ws4.sinaimg.cn/large/006tNc79ly1fz9jzm9wbtg30g4061kjs.gif)
 
 * Use `tdclear` to clear all data.
 
