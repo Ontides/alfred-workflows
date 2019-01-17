@@ -1,4 +1,4 @@
-Desktop Swicher
+Desktop Switcher
 
 ---
 

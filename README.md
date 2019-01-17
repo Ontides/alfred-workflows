@@ -1,5 +1,5 @@
 # alfred-workflows
-Some userful Alfred workflows | 一些有用的Alfred workflow
+Some useful Alfred workflows | 一些有用的Alfred workflow
 
 ---
 
@@ -15,9 +15,9 @@ Some userful Alfred workflows | 一些有用的Alfred workflow
 
   [More Info](https://github.com/Ontides/alfred-workflows/tree/master/go-todo)
 
-* Desktop Swicher
+* Desktop Switcher
 
-  Desktop Swicher offers a way to swich desktops.You can set an alias to a desktop, and swich to the desktop using it.  
+  Desktop Switcher offers a way to switch desktops.You can set an alias to a desktop and switch to the desktop using it.  
 
   [More Info](https://github.com/Ontides/alfred-workflows/blob/master/desktop-swicher)
 

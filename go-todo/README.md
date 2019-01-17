@@ -8,11 +8,11 @@ Go-ToDo
 
 * You can assign a task to a project via `td` + task-name + `#project-name`
 
-If you don't set a project like the above example, this task will be assgined to a default project called Inbox.
+If you don't set a project like the above example, this task will be assigned to a default project called Inbox.
 
 ![image-20190112144516630](https://ws2.sinaimg.cn/large/006tNc79gy1fz3thsuim9j30v206c0to.jpg)
 
-* Using `@tag` to set serveral tags to a task
+* Using `@tag` to set several tags to a task
 
 ![image-20190116112435904](https://ws4.sinaimg.cn/large/006tNc79gy1fz89heknk5j30v006cwfp.jpg)
 
