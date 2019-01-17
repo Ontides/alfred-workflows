@@ -12,7 +12,7 @@ If you don't set a project like the above example, this task will be assigned to
 
 ![image-20190112144516630](https://ws2.sinaimg.cn/large/006tNc79gy1fz3thsuim9j30v206c0to.jpg)
 
-* Using `@tag` to set several tags to a task
+* Use `@tag` to set several tags to a task
 
 ![image-20190116112435904](https://ws4.sinaimg.cn/large/006tNc79gy1fz89heknk5j30v006cwfp.jpg)
 
@@ -27,6 +27,8 @@ If you don't set a project like the above example, this task will be assigned to
 * Use `tdproject` to list all project names and press enter to see the corresponding tasks
 
 ![getprojects](https://i.loli.net/2019/01/16/5c3ea1e6aa508.gif)
+
+* Use `tdclear` to clear all data.
 
 ---
 
