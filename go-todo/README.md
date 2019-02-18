@@ -20,7 +20,7 @@ If you don't set a project like the above example, this task will be assigned to
 
 ![image-20190116113233704](https://ws2.sinaimg.cn/large/006tNc79ly1fz89q60bebj30uy0geadu.jpg)
 
-* Use `#projectName` and `@tag` to filter the task list
+* Use `#projectName` and `@tag` to filter the task list and use `@finished` /`@all` to get finished/all tasks(by default, get unfinished tasks)
 
 ![image-20190116112745881](https://ws2.sinaimg.cn/large/006tNc79gy1fz89kfg1t7j30uw08saby.jpg)
 
