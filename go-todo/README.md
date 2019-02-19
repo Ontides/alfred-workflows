@@ -16,7 +16,7 @@ If you don't set a project like the above example, this task will be assigned to
 
 ![image-20190116112435904](https://ws4.sinaimg.cn/large/006tNc79gy1fz89heknk5j30v006cwfp.jpg)
 
-* List all tasks via `tdlist` and click Enter to finish selected task
+* List all tasks via `tdlist` and press Enter to finish selected task
 
 ![image-20190116113233704](https://ws2.sinaimg.cn/large/006tNc79ly1fz89q60bebj30uy0geadu.jpg)
 

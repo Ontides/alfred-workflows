@@ -9,9 +9,9 @@ Some useful Alfred workflows | 一些有用的Alfred workflow
 
   1. quickly add a task
   2. assign a task to a project
-  3. set tags to a task
-  4. list all tasks with full information and quickly finish selected task
-  5. using a project name and/or tags  to get a filtered list
+  3. set tags for a task
+  4. list all tasks with full information(project, tags, etc.) and quickly finish selected task
+  5. using a project name and/or tags  to get a filtered task list
 
   [More Info](https://github.com/Ontides/alfred-workflows/tree/master/go-todo)
 
