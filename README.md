@@ -12,6 +12,7 @@ Some useful Alfred workflows | 一些有用的Alfred workflow
   3. set tags for a task
   4. list all tasks with full information(project, tags, etc.) and quickly finish selected task
   5. using a project name and/or tags  to get a filtered task list
+  6. data import/export
 
   [More Info](https://github.com/Ontides/alfred-workflows/tree/master/go-todo)
 

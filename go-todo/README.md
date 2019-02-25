@@ -31,6 +31,7 @@ If you don't set a project like the above example, this task will be assigned to
 ![taglist](https://ws2.sinaimg.cn/large/006tNc79gy1fz9o34w4m1g30g4061qv5.gif)
 
 * Use `tdclear` to clear all data.
+* Use `tdimport`/`tdexport` to import/export data
 
 ---
 
