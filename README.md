@@ -22,3 +22,9 @@ Some useful Alfred workflows | 一些有用的Alfred workflow
 
   [More Info](https://github.com/Ontides/alfred-workflows/blob/master/desktop-swicher)
 
+* VSCode Launcher
+
+  VSCode Launcher gives a fast way to open your project in Visual Studio Code.
+
+  [More Info](https://github.com/Ontides/alfred-workflows/blob/master/vscode-launcher)
+
